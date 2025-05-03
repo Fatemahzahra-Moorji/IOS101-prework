@@ -10,14 +10,19 @@ Time spent: 1 hour spent in total
 
 The following **required** functionality is completed:
 
-- [✓] Users are see a screen with three labels and a button
-- [✓ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
+
+Included additional features such as changing the text color along with the background color, and changing the font style of the labels. 
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/7ca09c83c5e444c9b53470c66954b090">
+    </a>
+    <a href="https://www.loom.com/share/7ca09c83c5e444c9b53470c66954b090">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ca09c83c5e444c9b53470c66954b090-7dccdc4276bfdee1-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 Favorite Apps:
