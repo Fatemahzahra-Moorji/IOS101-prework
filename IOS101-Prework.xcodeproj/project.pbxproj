@@ -10,9 +10,22 @@
 		F9941EFD2DC668CC004454B0 /* IOS101-Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS101-Prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F9EF5AC42DC6C89400BC410E /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = F9941EFC2DC668CC004454B0 /* IOS101-Prework */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F9941EFF2DC668CC004454B0 /* IOS101-Prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				F9EF5AC42DC6C89400BC410E /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */,
+			);
 			path = "IOS101-Prework";
 			sourceTree = "<group>";
 		};
