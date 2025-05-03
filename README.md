@@ -20,6 +20,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Favorite Apps:
+1.) Notion
+- Customizable templates for notes
+- Easy team collaboration features
+
+2.) Duolingo
+- Engaging gamified language lessons
+- Daily streak tracking for motivation
+
+3.) Notability
+- Smooth handwriting and note-taking experience
+- Audio recording synced with notes
+
+4.) Emirates Booking App
+- Simple flight booking process (user-friendly).
+- Real-time flight status updates.
+
+New App Idea:
+I would like to build a travel app that helps users plan personalized trips by offering recommendations for destinations, accommodations, and activities based on their preferences. The app would allow users to input their interest (e.g., adventure, relaxation, cultural) and budget, then generate itineraries with integrated maps and local guides. Features could include real-time flight tracking, currency conversion, and a travel journal to document experiences. 
 
 ## Notes
 
